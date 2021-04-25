@@ -73,3 +73,4 @@ Note that when you run `wal`, it will negate the transparency of existing window
 
 - Luke Smith <luke@lukesmith.xyz>
 - [https://lukesmith.xyz](https://lukesmith.xyz)
+# Direct clone of MentalOutlaw's fork of st by Suckless
